@@ -11,7 +11,7 @@ const RadioBox = ({ onChange, isPickerActive }) => (
           checked={!isPickerActive}
           onChange={() => onChange('off')}
         />
-        Off
+        color picker Off
       </label>
     </div>
     <div className="radio">
@@ -22,7 +22,7 @@ const RadioBox = ({ onChange, isPickerActive }) => (
           checked={isPickerActive}
           onChange={() => onChange('on')}
         />
-        On
+        color picker On
       </label>
     </div>
   </form>
