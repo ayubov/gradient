@@ -4,11 +4,11 @@
 ## Usage
 
 ```sh
-npm install
+git clone https://github.com/ayubov/gradient.git
 ```
 
 ```sh
-npm run build
+npm install
 ```
 
 ```sh
