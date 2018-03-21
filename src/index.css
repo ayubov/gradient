@@ -1,0 +1,14 @@
+.form {
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    bottom: 0; 
+    left: 0;
+}
+
+.invalid > input {
+    border: 2px solid red;
+}
+.invalid {
+    color: red
+}
