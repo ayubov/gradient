@@ -15,4 +15,7 @@ npm install
 npm run start
 ```
 
+## Demo
+
+http://ayubov.com/#/gradient
 
